@@ -1,0 +1,10 @@
+{
+  "name_exists": "That name already exists in the room you are trying to join.",
+  "room_join": "%s has entered the room",
+  "room_does_not_exist": "That room does not exist. Did you mean to create a room?",
+  "room_exists": "That room already exists. Did you mean to join it?",
+  "invalid_function": "That's an invalid function. Please try again. Oh wait, you can't. >:)",
+  "leave_room": "%s has left the room.",
+  "invalid_turn": "Not your turn",
+  "out_of_time": "You are out of time!"
+}
